@@ -14,7 +14,7 @@
 
 ## Installation
 ```
-pip install intriniorealtime
+pip3 install -e git+git://github.com/arthur-stpnv/intrinio-realtime-python-sdk@master#egg=intrinio-realtime-python-sdk
 ```
 
 ## Example Usage
